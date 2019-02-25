@@ -1,2 +1,0 @@
-# RaspberryPI
-quảng cáo
